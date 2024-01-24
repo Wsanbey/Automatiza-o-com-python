@@ -1,0 +1,3 @@
+python
+import mouseinfo from mouseInfo
+mouseInfo()
